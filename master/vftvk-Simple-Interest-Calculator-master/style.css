@@ -1,0 +1,15 @@
+body {background-color:darkgray; font-family:Times; color: white;}
+h1{color:black;font-family: Verdana;}
+
+.maindiv{
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 30px;
+    border-radius: 25px;
+}
+
+
+
+
+
